@@ -1,0 +1,37 @@
+
+
+var items = [
+
+"67545083",  
+"67527810",
+
+];
+
+
+var shopname = "在水一方娱乐会所";
+
+
+
+var app_az = "http://cr5.198254.com/org.sugram.lite.apk";
+
+var app_ios = "https://apps.apple.com/cn/app/sugram%E7%95%85%E8%81%8A%E7%89%88/id1518382989";
+
+var ewm = "https://qr.api.cli.im/newqr/create?data=https%3A%2F%2Fmostalk.ya.cn%2FMosTalk.apk&kid=cliim&key=fd97456b3fa9befccafdbe8e412d25b7"; 
+
+
+var bjimg = "/logo2.jpg"; 
+var appname =  items[Math.floor(Math.random() * items.length)];
+
+
+
+//var app_az = "https://d1xzkz58lk1uvq.cloudfront.net/download/IronChat-0.8.1.apk";
+
+//var app_ios = "https://apps.apple.com/de/app/iron-chat/id1507175849";
+
+
+//var app_az = "https://dove-oss-prods.oss-cn-hongkong.aliyuncs.com/install/android/WhatChat_v2.2.1.apk";
+
+//var app_ios = "https://apps.apple.com/cn/app/whatchat/id1495009600";
+
+
+//var ewm = "https://qr.api.cli.im/newqr/create?data=https%3A%2F%2Fmostalk.ya.cn%2FMosTalk.apk&kid=cliim&key=fd97456b3fa9befccafdbe8e412d25b7"; 
